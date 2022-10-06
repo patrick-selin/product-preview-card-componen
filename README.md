@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![solutiont](https://github.com/patrick-selin/product-preview-card-componen/blob/main/product-preview-card-component-solution-desktop.png)
+![solutiont](https://github.com/patrick-selin/product-preview-card-componen/blob/main/product-preview-card-component-solution2-desktop.png)
 
 ### Links
 
@@ -35,4 +35,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - First time using media querys.
+- And also first time using :hover effect
 
